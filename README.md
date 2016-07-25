@@ -3,6 +3,8 @@ A simple conversion from Utf-8 to charset windows 1232, mainly for gofpdf (https
 ## Installation
 go get github.com/gilmarpalega/cp1232
 
+
+## Example
 ```go
 package main
 
