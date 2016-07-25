@@ -14,7 +14,7 @@ import (
 )
 
 func main() {
-	text := FromUtf8("“Não existe almoço grátis”")
+	text := cp1232.FromUtf8("“Não existe almoço grátis”")
 	fmt.Println(text)
 }
 ```
